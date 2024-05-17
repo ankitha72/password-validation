@@ -1,0 +1,80 @@
+/*#container{
+    border: 3px solid black;
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: darkorchid;
+
+}
+a:active{
+    color: deeppink;
+}
+a:visited{
+    color: deepskyblue;
+}
+#Pointer{
+    cursor: pointer;
+}
+#Help{
+    cursor: help;
+}
+#Move{
+    cursor: move;
+}
+#Not-allowed{
+    cursor: not-allowed;
+}
+#Text{
+    cursor: text;
+}*/
+/* body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sagar{
+    height: 200px;
+    width: 200px;
+    border: 6px solid dodgerblue;
+    border-radius: 50%;
+    border-right-color:deeppink;
+    animation: spin 1s ease infinite;
+}
+@keyframes spin{
+    100%{
+        transform: rotate(360deg);
+    }
+} */
+/* video{
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+h1{
+    mix-blend-mode: screen;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    font-size: 30vw;
+    top:0 ;
+    left:0 ;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background:lightblue;
+} */
+.input{
+    width: 90px;
+    height: 90px;
+    justify-content: center;
+}
